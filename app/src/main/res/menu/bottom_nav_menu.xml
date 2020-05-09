@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/magic_page"
+        android:title="Magic"
+        android:icon="@drawable/magic_icon"/>
+
+    <item
+        android:id="@+id/assets_page"
+        android:title="Assets"
+        android:icon="@drawable/assets_icon"/>
+
+    <item
+        android:id="@+id/customization_page"
+        android:title="Customization"
+        android:icon="@drawable/customization_icon"/>
+
+</menu>
